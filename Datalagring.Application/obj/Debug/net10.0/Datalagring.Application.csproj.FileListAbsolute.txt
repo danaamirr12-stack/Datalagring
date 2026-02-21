@@ -1,0 +1,15 @@
+C:\Users\danaa\source\repos\Datalagring\Datalagring.Application\bin\Debug\net10.0\Datalagring.Application.deps.json
+C:\Users\danaa\source\repos\Datalagring\Datalagring.Application\bin\Debug\net10.0\Datalagring.Application.dll
+C:\Users\danaa\source\repos\Datalagring\Datalagring.Application\bin\Debug\net10.0\Datalagring.Application.pdb
+C:\Users\danaa\source\repos\Datalagring\Datalagring.Application\bin\Debug\net10.0\Datalagring.Domain.dll
+C:\Users\danaa\source\repos\Datalagring\Datalagring.Application\bin\Debug\net10.0\Datalagring.Domain.pdb
+C:\Users\danaa\source\repos\Datalagring\Datalagring.Application\obj\Debug\net10.0\Datalagring.Application.csproj.AssemblyReference.cache
+C:\Users\danaa\source\repos\Datalagring\Datalagring.Application\obj\Debug\net10.0\Datalagring.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danaa\source\repos\Datalagring\Datalagring.Application\obj\Debug\net10.0\Datalagring.Application.AssemblyInfoInputs.cache
+C:\Users\danaa\source\repos\Datalagring\Datalagring.Application\obj\Debug\net10.0\Datalagring.Application.AssemblyInfo.cs
+C:\Users\danaa\source\repos\Datalagring\Datalagring.Application\obj\Debug\net10.0\Datalagring.Application.csproj.CoreCompileInputs.cache
+C:\Users\danaa\source\repos\Datalagring\Datalagring.Application\obj\Debug\net10.0\Datalagr.62549C9E.Up2Date
+C:\Users\danaa\source\repos\Datalagring\Datalagring.Application\obj\Debug\net10.0\Datalagring.Application.dll
+C:\Users\danaa\source\repos\Datalagring\Datalagring.Application\obj\Debug\net10.0\refint\Datalagring.Application.dll
+C:\Users\danaa\source\repos\Datalagring\Datalagring.Application\obj\Debug\net10.0\Datalagring.Application.pdb
+C:\Users\danaa\source\repos\Datalagring\Datalagring.Application\obj\Debug\net10.0\ref\Datalagring.Application.dll
