@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Datalagring.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5953f1824819b4fc34d6a7dc0ef8ce0008ec2938")]
 [assembly: System.Reflection.AssemblyProductAttribute("Datalagring.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Datalagring.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

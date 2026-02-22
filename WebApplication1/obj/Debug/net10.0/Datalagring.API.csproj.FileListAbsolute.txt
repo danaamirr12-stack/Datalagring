@@ -39,6 +39,9 @@ C:\Users\danaa\source\repos\Datalagring\WebApplication1\bin\Debug\net10.0\Micros
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\bin\Debug\net10.0\Mono.TextTemplating.dll
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\danaa\source\repos\Datalagring\WebApplication1\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\danaa\source\repos\Datalagring\WebApplication1\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\danaa\source\repos\Datalagring\WebApplication1\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\bin\Debug\net10.0\System.ClientModel.dll
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\bin\Debug\net10.0\System.CodeDom.dll
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\bin\Debug\net10.0\System.Composition.AttributedModel.dll
@@ -147,6 +150,7 @@ C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\Datala
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\Datalagring.API.csproj.CoreCompileInputs.cache
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\Datalagring.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\Datalagring.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\Datalagring.API.sourcelink.json
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -156,13 +160,10 @@ C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\static
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\Datalagr.6C01A301.Up2Date
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\Datalagring.API.dll
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\refint\Datalagring.API.dll
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\Datalagring.API.pdb
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\Datalagring.API.genruntimeconfig.cache
 C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\ref\Datalagring.API.dll
-C:\Users\danaa\source\repos\Datalagring\WebApplication1\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\danaa\source\repos\Datalagring\WebApplication1\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\danaa\source\repos\Datalagring\WebApplication1\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\danaa\source\repos\Datalagring\WebApplication1\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
