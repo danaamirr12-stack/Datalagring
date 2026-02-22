@@ -1,7 +1,0 @@
-<Solution>
-  <Project Path="Datalagring.Application/Datalagring.Application.csproj" />
-  <Project Path="Datalagring.Domain/Datalagring.Domain.csproj" />
-  <Project Path="Datalagring.Infrastructure/Datalagring.Infrastructure.csproj" />
-  <Project Path="Datalagring.Tests/Datalagring.Tests.csproj" />
-  <Project Path="WebApplication1/Datalagring.API.csproj" />
-</Solution>
